@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "sort.h": "c",
+        "mergesort.h": "c",
+        "menu.h": "c",
+        "__hash_table": "c",
+        "__split_buffer": "c",
+        "array": "c",
+        "bitset": "c",
+        "hash_map": "c",
+        "initializer_list": "c",
+        "list": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "__bit_reference": "c",
+        "chrono": "c",
+        "mymenu.h": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}
